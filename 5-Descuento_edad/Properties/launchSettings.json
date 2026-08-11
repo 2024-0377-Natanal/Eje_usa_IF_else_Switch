@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "5-Descuento_edad": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
