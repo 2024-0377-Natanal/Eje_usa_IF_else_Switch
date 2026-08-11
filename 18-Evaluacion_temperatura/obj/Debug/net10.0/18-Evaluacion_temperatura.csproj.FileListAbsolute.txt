@@ -1,0 +1,14 @@
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\18-Evaluacion_temperatura\bin\Debug\net10.0\18-Evaluacion_temperatura.exe
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\18-Evaluacion_temperatura\bin\Debug\net10.0\18-Evaluacion_temperatura.deps.json
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\18-Evaluacion_temperatura\bin\Debug\net10.0\18-Evaluacion_temperatura.runtimeconfig.json
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\18-Evaluacion_temperatura\bin\Debug\net10.0\18-Evaluacion_temperatura.dll
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\18-Evaluacion_temperatura\bin\Debug\net10.0\18-Evaluacion_temperatura.pdb
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\18-Evaluacion_temperatura\obj\Debug\net10.0\18-Evaluacion_temperatura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\18-Evaluacion_temperatura\obj\Debug\net10.0\18-Evaluacion_temperatura.AssemblyInfoInputs.cache
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\18-Evaluacion_temperatura\obj\Debug\net10.0\18-Evaluacion_temperatura.AssemblyInfo.cs
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\18-Evaluacion_temperatura\obj\Debug\net10.0\18-Evaluacion_temperatura.csproj.CoreCompileInputs.cache
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\18-Evaluacion_temperatura\obj\Debug\net10.0\18-Evaluacion_temperatura.dll
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\18-Evaluacion_temperatura\obj\Debug\net10.0\refint\18-Evaluacion_temperatura.dll
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\18-Evaluacion_temperatura\obj\Debug\net10.0\18-Evaluacion_temperatura.pdb
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\18-Evaluacion_temperatura\obj\Debug\net10.0\18-Evaluacion_temperatura.genruntimeconfig.cache
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\18-Evaluacion_temperatura\obj\Debug\net10.0\ref\18-Evaluacion_temperatura.dll

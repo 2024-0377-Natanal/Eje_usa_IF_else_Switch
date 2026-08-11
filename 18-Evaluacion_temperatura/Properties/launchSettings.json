@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "18-Evaluacion_temperatura": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
