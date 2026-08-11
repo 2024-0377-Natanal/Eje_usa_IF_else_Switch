@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "15-Comparacion_tres_longitudes": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

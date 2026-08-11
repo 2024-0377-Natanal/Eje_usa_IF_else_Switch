@@ -1,0 +1,14 @@
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\15-Comparacion_tres_longitudes\bin\Debug\net10.0\15-Comparacion_tres_longitudes.exe
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\15-Comparacion_tres_longitudes\bin\Debug\net10.0\15-Comparacion_tres_longitudes.deps.json
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\15-Comparacion_tres_longitudes\bin\Debug\net10.0\15-Comparacion_tres_longitudes.runtimeconfig.json
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\15-Comparacion_tres_longitudes\bin\Debug\net10.0\15-Comparacion_tres_longitudes.dll
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\15-Comparacion_tres_longitudes\bin\Debug\net10.0\15-Comparacion_tres_longitudes.pdb
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\15-Comparacion_tres_longitudes\obj\Debug\net10.0\15-Comparacion_tres_longitudes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\15-Comparacion_tres_longitudes\obj\Debug\net10.0\15-Comparacion_tres_longitudes.AssemblyInfoInputs.cache
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\15-Comparacion_tres_longitudes\obj\Debug\net10.0\15-Comparacion_tres_longitudes.AssemblyInfo.cs
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\15-Comparacion_tres_longitudes\obj\Debug\net10.0\15-Comparacion_tres_longitudes.csproj.CoreCompileInputs.cache
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\15-Comparacion_tres_longitudes\obj\Debug\net10.0\15-Comparacion_tres_longitudes.dll
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\15-Comparacion_tres_longitudes\obj\Debug\net10.0\refint\15-Comparacion_tres_longitudes.dll
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\15-Comparacion_tres_longitudes\obj\Debug\net10.0\15-Comparacion_tres_longitudes.pdb
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\15-Comparacion_tres_longitudes\obj\Debug\net10.0\15-Comparacion_tres_longitudes.genruntimeconfig.cache
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\15-Comparacion_tres_longitudes\obj\Debug\net10.0\ref\15-Comparacion_tres_longitudes.dll
