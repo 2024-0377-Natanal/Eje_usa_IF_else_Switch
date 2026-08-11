@@ -1,0 +1,14 @@
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\16-Calculadora_descuentos\bin\Debug\net10.0\16-Calculadora_descuentos.exe
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\16-Calculadora_descuentos\bin\Debug\net10.0\16-Calculadora_descuentos.deps.json
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\16-Calculadora_descuentos\bin\Debug\net10.0\16-Calculadora_descuentos.runtimeconfig.json
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\16-Calculadora_descuentos\bin\Debug\net10.0\16-Calculadora_descuentos.dll
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\16-Calculadora_descuentos\bin\Debug\net10.0\16-Calculadora_descuentos.pdb
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\16-Calculadora_descuentos\obj\Debug\net10.0\16-Calculadora_descuentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\16-Calculadora_descuentos\obj\Debug\net10.0\16-Calculadora_descuentos.AssemblyInfoInputs.cache
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\16-Calculadora_descuentos\obj\Debug\net10.0\16-Calculadora_descuentos.AssemblyInfo.cs
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\16-Calculadora_descuentos\obj\Debug\net10.0\16-Calculadora_descuentos.csproj.CoreCompileInputs.cache
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\16-Calculadora_descuentos\obj\Debug\net10.0\16-Calculadora_descuentos.dll
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\16-Calculadora_descuentos\obj\Debug\net10.0\refint\16-Calculadora_descuentos.dll
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\16-Calculadora_descuentos\obj\Debug\net10.0\16-Calculadora_descuentos.pdb
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\16-Calculadora_descuentos\obj\Debug\net10.0\16-Calculadora_descuentos.genruntimeconfig.cache
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\16-Calculadora_descuentos\obj\Debug\net10.0\ref\16-Calculadora_descuentos.dll
