@@ -1,0 +1,14 @@
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\8-Numero_mayor_entre_dos\bin\Debug\net10.0\8-Numero_mayor_entre_dos.exe
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\8-Numero_mayor_entre_dos\bin\Debug\net10.0\8-Numero_mayor_entre_dos.deps.json
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\8-Numero_mayor_entre_dos\bin\Debug\net10.0\8-Numero_mayor_entre_dos.runtimeconfig.json
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\8-Numero_mayor_entre_dos\bin\Debug\net10.0\8-Numero_mayor_entre_dos.dll
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\8-Numero_mayor_entre_dos\bin\Debug\net10.0\8-Numero_mayor_entre_dos.pdb
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\8-Numero_mayor_entre_dos\obj\Debug\net10.0\8-Numero_mayor_entre_dos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\8-Numero_mayor_entre_dos\obj\Debug\net10.0\8-Numero_mayor_entre_dos.AssemblyInfoInputs.cache
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\8-Numero_mayor_entre_dos\obj\Debug\net10.0\8-Numero_mayor_entre_dos.AssemblyInfo.cs
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\8-Numero_mayor_entre_dos\obj\Debug\net10.0\8-Numero_mayor_entre_dos.csproj.CoreCompileInputs.cache
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\8-Numero_mayor_entre_dos\obj\Debug\net10.0\8-Numero_mayor_entre_dos.dll
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\8-Numero_mayor_entre_dos\obj\Debug\net10.0\refint\8-Numero_mayor_entre_dos.dll
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\8-Numero_mayor_entre_dos\obj\Debug\net10.0\8-Numero_mayor_entre_dos.pdb
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\8-Numero_mayor_entre_dos\obj\Debug\net10.0\8-Numero_mayor_entre_dos.genruntimeconfig.cache
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\8-Numero_mayor_entre_dos\obj\Debug\net10.0\ref\8-Numero_mayor_entre_dos.dll

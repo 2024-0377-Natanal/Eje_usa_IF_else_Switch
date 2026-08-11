@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "8-Numero_mayor_entre_dos": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
