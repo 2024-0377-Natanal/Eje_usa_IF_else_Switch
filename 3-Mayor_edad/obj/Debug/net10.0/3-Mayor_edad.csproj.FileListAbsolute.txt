@@ -1,0 +1,14 @@
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\3-Mayor_edad\bin\Debug\net10.0\3-Mayor_edad.exe
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\3-Mayor_edad\bin\Debug\net10.0\3-Mayor_edad.deps.json
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\3-Mayor_edad\bin\Debug\net10.0\3-Mayor_edad.runtimeconfig.json
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\3-Mayor_edad\bin\Debug\net10.0\3-Mayor_edad.dll
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\3-Mayor_edad\bin\Debug\net10.0\3-Mayor_edad.pdb
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\3-Mayor_edad\obj\Debug\net10.0\3-Mayor_edad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\3-Mayor_edad\obj\Debug\net10.0\3-Mayor_edad.AssemblyInfoInputs.cache
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\3-Mayor_edad\obj\Debug\net10.0\3-Mayor_edad.AssemblyInfo.cs
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\3-Mayor_edad\obj\Debug\net10.0\3-Mayor_edad.csproj.CoreCompileInputs.cache
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\3-Mayor_edad\obj\Debug\net10.0\3-Mayor_edad.dll
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\3-Mayor_edad\obj\Debug\net10.0\refint\3-Mayor_edad.dll
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\3-Mayor_edad\obj\Debug\net10.0\3-Mayor_edad.pdb
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\3-Mayor_edad\obj\Debug\net10.0\3-Mayor_edad.genruntimeconfig.cache
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\3-Mayor_edad\obj\Debug\net10.0\ref\3-Mayor_edad.dll

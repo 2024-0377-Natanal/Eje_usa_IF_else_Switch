@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "3-Mayor_edad": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
