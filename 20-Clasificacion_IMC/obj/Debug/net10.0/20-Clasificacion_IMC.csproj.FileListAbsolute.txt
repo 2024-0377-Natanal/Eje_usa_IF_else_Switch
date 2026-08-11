@@ -1,0 +1,14 @@
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\20-Clasificacion_IMC\bin\Debug\net10.0\20-Clasificacion_IMC.exe
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\20-Clasificacion_IMC\bin\Debug\net10.0\20-Clasificacion_IMC.deps.json
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\20-Clasificacion_IMC\bin\Debug\net10.0\20-Clasificacion_IMC.runtimeconfig.json
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\20-Clasificacion_IMC\bin\Debug\net10.0\20-Clasificacion_IMC.dll
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\20-Clasificacion_IMC\bin\Debug\net10.0\20-Clasificacion_IMC.pdb
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\20-Clasificacion_IMC\obj\Debug\net10.0\20-Clasificacion_IMC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\20-Clasificacion_IMC\obj\Debug\net10.0\20-Clasificacion_IMC.AssemblyInfoInputs.cache
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\20-Clasificacion_IMC\obj\Debug\net10.0\20-Clasificacion_IMC.AssemblyInfo.cs
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\20-Clasificacion_IMC\obj\Debug\net10.0\20-Clasificacion_IMC.csproj.CoreCompileInputs.cache
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\20-Clasificacion_IMC\obj\Debug\net10.0\20-Clasificacion_IMC.dll
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\20-Clasificacion_IMC\obj\Debug\net10.0\refint\20-Clasificacion_IMC.dll
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\20-Clasificacion_IMC\obj\Debug\net10.0\20-Clasificacion_IMC.pdb
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\20-Clasificacion_IMC\obj\Debug\net10.0\20-Clasificacion_IMC.genruntimeconfig.cache
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\20-Clasificacion_IMC\obj\Debug\net10.0\ref\20-Clasificacion_IMC.dll

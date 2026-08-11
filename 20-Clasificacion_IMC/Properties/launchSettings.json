@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "20-Clasificacion_IMC": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
