@@ -1,0 +1,14 @@
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\13_Verificacion_año_bisiesto\bin\Debug\net10.0\13_Verificacion_año_bisiesto.exe
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\13_Verificacion_año_bisiesto\bin\Debug\net10.0\13_Verificacion_año_bisiesto.deps.json
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\13_Verificacion_año_bisiesto\bin\Debug\net10.0\13_Verificacion_año_bisiesto.runtimeconfig.json
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\13_Verificacion_año_bisiesto\bin\Debug\net10.0\13_Verificacion_año_bisiesto.dll
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\13_Verificacion_año_bisiesto\bin\Debug\net10.0\13_Verificacion_año_bisiesto.pdb
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\13_Verificacion_año_bisiesto\obj\Debug\net10.0\13_Verificacion_año_bisiesto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\13_Verificacion_año_bisiesto\obj\Debug\net10.0\13_Verificacion_año_bisiesto.AssemblyInfoInputs.cache
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\13_Verificacion_año_bisiesto\obj\Debug\net10.0\13_Verificacion_año_bisiesto.AssemblyInfo.cs
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\13_Verificacion_año_bisiesto\obj\Debug\net10.0\13_Verificacion_año_bisiesto.csproj.CoreCompileInputs.cache
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\13_Verificacion_año_bisiesto\obj\Debug\net10.0\13_Verificacion_año_bisiesto.dll
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\13_Verificacion_año_bisiesto\obj\Debug\net10.0\refint\13_Verificacion_año_bisiesto.dll
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\13_Verificacion_año_bisiesto\obj\Debug\net10.0\13_Verificacion_año_bisiesto.pdb
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\13_Verificacion_año_bisiesto\obj\Debug\net10.0\13_Verificacion_año_bisiesto.genruntimeconfig.cache
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\13_Verificacion_año_bisiesto\obj\Debug\net10.0\ref\13_Verificacion_año_bisiesto.dll

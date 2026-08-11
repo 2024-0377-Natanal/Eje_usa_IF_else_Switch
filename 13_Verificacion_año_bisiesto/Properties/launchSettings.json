@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "13_Verificacion_año_bisiesto": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
