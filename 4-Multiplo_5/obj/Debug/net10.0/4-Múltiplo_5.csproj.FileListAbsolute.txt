@@ -1,0 +1,14 @@
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\4-Múltiplo_5\bin\Debug\net10.0\4-Múltiplo_5.exe
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\4-Múltiplo_5\bin\Debug\net10.0\4-Múltiplo_5.deps.json
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\4-Múltiplo_5\bin\Debug\net10.0\4-Múltiplo_5.runtimeconfig.json
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\4-Múltiplo_5\bin\Debug\net10.0\4-Múltiplo_5.dll
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\4-Múltiplo_5\bin\Debug\net10.0\4-Múltiplo_5.pdb
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\4-Múltiplo_5\obj\Debug\net10.0\4-Múltiplo_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\4-Múltiplo_5\obj\Debug\net10.0\4-Múltiplo_5.AssemblyInfoInputs.cache
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\4-Múltiplo_5\obj\Debug\net10.0\4-Múltiplo_5.AssemblyInfo.cs
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\4-Múltiplo_5\obj\Debug\net10.0\4-Múltiplo_5.csproj.CoreCompileInputs.cache
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\4-Múltiplo_5\obj\Debug\net10.0\4-Múltiplo_5.dll
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\4-Múltiplo_5\obj\Debug\net10.0\refint\4-Múltiplo_5.dll
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\4-Múltiplo_5\obj\Debug\net10.0\4-Múltiplo_5.pdb
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\4-Múltiplo_5\obj\Debug\net10.0\4-Múltiplo_5.genruntimeconfig.cache
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\4-Múltiplo_5\obj\Debug\net10.0\ref\4-Múltiplo_5.dll
