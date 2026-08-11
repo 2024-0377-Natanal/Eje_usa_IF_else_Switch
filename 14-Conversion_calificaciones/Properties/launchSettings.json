@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "14-Conversion_calificaciones": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

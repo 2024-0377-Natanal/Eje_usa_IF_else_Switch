@@ -1,0 +1,14 @@
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\14-Conversion_calificaciones\bin\Debug\net10.0\14-Conversion_calificaciones.exe
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\14-Conversion_calificaciones\bin\Debug\net10.0\14-Conversion_calificaciones.deps.json
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\14-Conversion_calificaciones\bin\Debug\net10.0\14-Conversion_calificaciones.runtimeconfig.json
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\14-Conversion_calificaciones\bin\Debug\net10.0\14-Conversion_calificaciones.dll
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\14-Conversion_calificaciones\bin\Debug\net10.0\14-Conversion_calificaciones.pdb
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\14-Conversion_calificaciones\obj\Debug\net10.0\14-Conversion_calificaciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\14-Conversion_calificaciones\obj\Debug\net10.0\14-Conversion_calificaciones.AssemblyInfoInputs.cache
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\14-Conversion_calificaciones\obj\Debug\net10.0\14-Conversion_calificaciones.AssemblyInfo.cs
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\14-Conversion_calificaciones\obj\Debug\net10.0\14-Conversion_calificaciones.csproj.CoreCompileInputs.cache
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\14-Conversion_calificaciones\obj\Debug\net10.0\14-Conversion_calificaciones.dll
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\14-Conversion_calificaciones\obj\Debug\net10.0\refint\14-Conversion_calificaciones.dll
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\14-Conversion_calificaciones\obj\Debug\net10.0\14-Conversion_calificaciones.pdb
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\14-Conversion_calificaciones\obj\Debug\net10.0\14-Conversion_calificaciones.genruntimeconfig.cache
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\14-Conversion_calificaciones\obj\Debug\net10.0\ref\14-Conversion_calificaciones.dll
