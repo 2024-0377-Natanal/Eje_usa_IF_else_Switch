@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "7-Dia_semana": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

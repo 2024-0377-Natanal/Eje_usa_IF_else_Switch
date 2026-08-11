@@ -1,0 +1,14 @@
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\7-Dia_semana\bin\Debug\net10.0\7-Dia_semana.exe
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\7-Dia_semana\bin\Debug\net10.0\7-Dia_semana.deps.json
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\7-Dia_semana\bin\Debug\net10.0\7-Dia_semana.runtimeconfig.json
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\7-Dia_semana\bin\Debug\net10.0\7-Dia_semana.dll
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\7-Dia_semana\bin\Debug\net10.0\7-Dia_semana.pdb
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\7-Dia_semana\obj\Debug\net10.0\7-Dia_semana.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\7-Dia_semana\obj\Debug\net10.0\7-Dia_semana.AssemblyInfoInputs.cache
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\7-Dia_semana\obj\Debug\net10.0\7-Dia_semana.AssemblyInfo.cs
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\7-Dia_semana\obj\Debug\net10.0\7-Dia_semana.csproj.CoreCompileInputs.cache
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\7-Dia_semana\obj\Debug\net10.0\7-Dia_semana.dll
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\7-Dia_semana\obj\Debug\net10.0\refint\7-Dia_semana.dll
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\7-Dia_semana\obj\Debug\net10.0\7-Dia_semana.pdb
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\7-Dia_semana\obj\Debug\net10.0\7-Dia_semana.genruntimeconfig.cache
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\7-Dia_semana\obj\Debug\net10.0\ref\7-Dia_semana.dll
