@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "6-Calificación_aprobatoria": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

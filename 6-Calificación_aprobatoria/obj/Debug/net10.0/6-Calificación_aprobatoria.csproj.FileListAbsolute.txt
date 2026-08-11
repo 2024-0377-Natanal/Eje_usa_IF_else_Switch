@@ -1,0 +1,14 @@
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\6-Calificación_aprobatoria\bin\Debug\net10.0\6-Calificación_aprobatoria.exe
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\6-Calificación_aprobatoria\bin\Debug\net10.0\6-Calificación_aprobatoria.deps.json
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\6-Calificación_aprobatoria\bin\Debug\net10.0\6-Calificación_aprobatoria.runtimeconfig.json
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\6-Calificación_aprobatoria\bin\Debug\net10.0\6-Calificación_aprobatoria.dll
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\6-Calificación_aprobatoria\bin\Debug\net10.0\6-Calificación_aprobatoria.pdb
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\6-Calificación_aprobatoria\obj\Debug\net10.0\6-Calificación_aprobatoria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\6-Calificación_aprobatoria\obj\Debug\net10.0\6-Calificación_aprobatoria.AssemblyInfoInputs.cache
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\6-Calificación_aprobatoria\obj\Debug\net10.0\6-Calificación_aprobatoria.AssemblyInfo.cs
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\6-Calificación_aprobatoria\obj\Debug\net10.0\6-Calificación_aprobatoria.csproj.CoreCompileInputs.cache
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\6-Calificación_aprobatoria\obj\Debug\net10.0\6-Calificación_aprobatoria.dll
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\6-Calificación_aprobatoria\obj\Debug\net10.0\refint\6-Calificación_aprobatoria.dll
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\6-Calificación_aprobatoria\obj\Debug\net10.0\6-Calificación_aprobatoria.pdb
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\6-Calificación_aprobatoria\obj\Debug\net10.0\6-Calificación_aprobatoria.genruntimeconfig.cache
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\6-Calificación_aprobatoria\obj\Debug\net10.0\ref\6-Calificación_aprobatoria.dll
