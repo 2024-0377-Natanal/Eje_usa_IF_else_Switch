@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "19-Conversion_horas_turnos": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

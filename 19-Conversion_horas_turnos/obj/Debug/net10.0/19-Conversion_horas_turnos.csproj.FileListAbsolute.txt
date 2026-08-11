@@ -1,0 +1,14 @@
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\19-Conversion_horas_turnos\bin\Debug\net10.0\19-Conversion_horas_turnos.exe
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\19-Conversion_horas_turnos\bin\Debug\net10.0\19-Conversion_horas_turnos.deps.json
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\19-Conversion_horas_turnos\bin\Debug\net10.0\19-Conversion_horas_turnos.runtimeconfig.json
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\19-Conversion_horas_turnos\bin\Debug\net10.0\19-Conversion_horas_turnos.dll
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\19-Conversion_horas_turnos\bin\Debug\net10.0\19-Conversion_horas_turnos.pdb
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\19-Conversion_horas_turnos\obj\Debug\net10.0\19-Conversion_horas_turnos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\19-Conversion_horas_turnos\obj\Debug\net10.0\19-Conversion_horas_turnos.AssemblyInfoInputs.cache
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\19-Conversion_horas_turnos\obj\Debug\net10.0\19-Conversion_horas_turnos.AssemblyInfo.cs
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\19-Conversion_horas_turnos\obj\Debug\net10.0\19-Conversion_horas_turnos.csproj.CoreCompileInputs.cache
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\19-Conversion_horas_turnos\obj\Debug\net10.0\19-Conversion_horas_turnos.dll
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\19-Conversion_horas_turnos\obj\Debug\net10.0\refint\19-Conversion_horas_turnos.dll
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\19-Conversion_horas_turnos\obj\Debug\net10.0\19-Conversion_horas_turnos.pdb
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\19-Conversion_horas_turnos\obj\Debug\net10.0\19-Conversion_horas_turnos.genruntimeconfig.cache
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\19-Conversion_horas_turnos\obj\Debug\net10.0\ref\19-Conversion_horas_turnos.dll
