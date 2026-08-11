@@ -1,0 +1,14 @@
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\1-Positivo_Negativo_Cero\bin\Debug\net10.0\1-Positivo_Negativo_Cero.exe
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\1-Positivo_Negativo_Cero\bin\Debug\net10.0\1-Positivo_Negativo_Cero.deps.json
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\1-Positivo_Negativo_Cero\bin\Debug\net10.0\1-Positivo_Negativo_Cero.runtimeconfig.json
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\1-Positivo_Negativo_Cero\bin\Debug\net10.0\1-Positivo_Negativo_Cero.dll
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\1-Positivo_Negativo_Cero\bin\Debug\net10.0\1-Positivo_Negativo_Cero.pdb
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\1-Positivo_Negativo_Cero\obj\Debug\net10.0\1-Positivo_Negativo_Cero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\1-Positivo_Negativo_Cero\obj\Debug\net10.0\1-Positivo_Negativo_Cero.AssemblyInfoInputs.cache
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\1-Positivo_Negativo_Cero\obj\Debug\net10.0\1-Positivo_Negativo_Cero.AssemblyInfo.cs
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\1-Positivo_Negativo_Cero\obj\Debug\net10.0\1-Positivo_Negativo_Cero.csproj.CoreCompileInputs.cache
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\1-Positivo_Negativo_Cero\obj\Debug\net10.0\1-Positivo_Negativo_Cero.dll
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\1-Positivo_Negativo_Cero\obj\Debug\net10.0\refint\1-Positivo_Negativo_Cero.dll
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\1-Positivo_Negativo_Cero\obj\Debug\net10.0\1-Positivo_Negativo_Cero.pdb
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\1-Positivo_Negativo_Cero\obj\Debug\net10.0\1-Positivo_Negativo_Cero.genruntimeconfig.cache
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\1-Positivo_Negativo_Cero\obj\Debug\net10.0\ref\1-Positivo_Negativo_Cero.dll

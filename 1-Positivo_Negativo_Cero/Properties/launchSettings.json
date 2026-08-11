@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "1-Positivo_Negativo_Cero": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
