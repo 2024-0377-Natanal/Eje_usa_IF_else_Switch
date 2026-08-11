@@ -1,0 +1,14 @@
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\12-Clasificacion_numeros\bin\Debug\net10.0\12-Clasificacion_numeros.exe
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\12-Clasificacion_numeros\bin\Debug\net10.0\12-Clasificacion_numeros.deps.json
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\12-Clasificacion_numeros\bin\Debug\net10.0\12-Clasificacion_numeros.runtimeconfig.json
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\12-Clasificacion_numeros\bin\Debug\net10.0\12-Clasificacion_numeros.dll
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\12-Clasificacion_numeros\bin\Debug\net10.0\12-Clasificacion_numeros.pdb
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\12-Clasificacion_numeros\obj\Debug\net10.0\12-Clasificacion_numeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\12-Clasificacion_numeros\obj\Debug\net10.0\12-Clasificacion_numeros.AssemblyInfoInputs.cache
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\12-Clasificacion_numeros\obj\Debug\net10.0\12-Clasificacion_numeros.AssemblyInfo.cs
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\12-Clasificacion_numeros\obj\Debug\net10.0\12-Clasificacion_numeros.csproj.CoreCompileInputs.cache
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\12-Clasificacion_numeros\obj\Debug\net10.0\12-Clasificacion_numeros.dll
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\12-Clasificacion_numeros\obj\Debug\net10.0\refint\12-Clasificacion_numeros.dll
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\12-Clasificacion_numeros\obj\Debug\net10.0\12-Clasificacion_numeros.pdb
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\12-Clasificacion_numeros\obj\Debug\net10.0\12-Clasificacion_numeros.genruntimeconfig.cache
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\12-Clasificacion_numeros\obj\Debug\net10.0\ref\12-Clasificacion_numeros.dll

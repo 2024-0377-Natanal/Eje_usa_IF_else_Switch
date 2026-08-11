@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "12-Clasificacion_numeros": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
