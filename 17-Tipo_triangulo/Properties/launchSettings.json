@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "17-Tipo_triangulo": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
