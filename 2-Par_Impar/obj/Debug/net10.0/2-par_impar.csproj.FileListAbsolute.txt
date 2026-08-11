@@ -1,0 +1,14 @@
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\2-par_impar\bin\Debug\net10.0\2-par_impar.exe
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\2-par_impar\bin\Debug\net10.0\2-par_impar.deps.json
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\2-par_impar\bin\Debug\net10.0\2-par_impar.runtimeconfig.json
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\2-par_impar\bin\Debug\net10.0\2-par_impar.dll
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\2-par_impar\bin\Debug\net10.0\2-par_impar.pdb
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\2-par_impar\obj\Debug\net10.0\2-par_impar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\2-par_impar\obj\Debug\net10.0\2-par_impar.AssemblyInfoInputs.cache
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\2-par_impar\obj\Debug\net10.0\2-par_impar.AssemblyInfo.cs
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\2-par_impar\obj\Debug\net10.0\2-par_impar.csproj.CoreCompileInputs.cache
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\2-par_impar\obj\Debug\net10.0\2-par_impar.dll
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\2-par_impar\obj\Debug\net10.0\refint\2-par_impar.dll
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\2-par_impar\obj\Debug\net10.0\2-par_impar.pdb
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\2-par_impar\obj\Debug\net10.0\2-par_impar.genruntimeconfig.cache
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\2-par_impar\obj\Debug\net10.0\ref\2-par_impar.dll
