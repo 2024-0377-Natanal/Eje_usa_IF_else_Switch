@@ -1,0 +1,14 @@
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\10-Clasificacion_angulos\bin\Debug\net10.0\10-Clasificacion_angulos.exe
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\10-Clasificacion_angulos\bin\Debug\net10.0\10-Clasificacion_angulos.deps.json
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\10-Clasificacion_angulos\bin\Debug\net10.0\10-Clasificacion_angulos.runtimeconfig.json
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\10-Clasificacion_angulos\bin\Debug\net10.0\10-Clasificacion_angulos.dll
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\10-Clasificacion_angulos\bin\Debug\net10.0\10-Clasificacion_angulos.pdb
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\10-Clasificacion_angulos\obj\Debug\net10.0\10-Clasificacion_angulos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\10-Clasificacion_angulos\obj\Debug\net10.0\10-Clasificacion_angulos.AssemblyInfoInputs.cache
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\10-Clasificacion_angulos\obj\Debug\net10.0\10-Clasificacion_angulos.AssemblyInfo.cs
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\10-Clasificacion_angulos\obj\Debug\net10.0\10-Clasificacion_angulos.csproj.CoreCompileInputs.cache
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\10-Clasificacion_angulos\obj\Debug\net10.0\10-Clasificacion_angulos.dll
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\10-Clasificacion_angulos\obj\Debug\net10.0\refint\10-Clasificacion_angulos.dll
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\10-Clasificacion_angulos\obj\Debug\net10.0\10-Clasificacion_angulos.pdb
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\10-Clasificacion_angulos\obj\Debug\net10.0\10-Clasificacion_angulos.genruntimeconfig.cache
+C:\Users\n\Desktop\1-Programacion de aplicaciones\clase\Eje_usa_IF_else_Switch\10-Clasificacion_angulos\obj\Debug\net10.0\ref\10-Clasificacion_angulos.dll

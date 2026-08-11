@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "10-Clasificacion_angulos": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

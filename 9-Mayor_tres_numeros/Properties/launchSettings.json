@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "9-Mayor_tres_numeros": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
